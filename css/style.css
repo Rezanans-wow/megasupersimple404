@@ -1,0 +1,62 @@
+/* -------------------------------------------------------------------------- */
+/*                                pterohost.com                               */
+/* -------------------------------------------------------------------------- */
+
+body {
+    background-image: url('https://i.pinimg.com/originals/45/f5/d0/45f5d09bbf47aa81da0156929a6bb141.jpg');
+    position: auto;
+    image-rendering: optimizeSpeed;
+  }
+  
+  div.backtohome {
+    position: auto;
+    font-size:10px;
+    font-style: normal;
+    text-shadow: 1.5cm;
+    text-align: auto;
+    text-indent:2px;
+    text-emphasis-position: auto;
+    color:rgb(247, 247, 247)
+    image-rendering: optimizeSpeed;
+  }
+
+  div.steve {
+    text-align: right;
+    position: static;
+    image-rendering: auto;
+  }
+
+  div.err {
+    color: rgb(182, 101, 35);
+    font-size: 250%;
+    position: auto;
+    border-left-color:rgb(182, 101, 35);;
+    text-align: justify;
+    text-align: center;
+  }
+
+  div.facts {
+    color: rgb(212, 210, 207);
+    font-size: large;
+    position: static;
+    text-align: justify;
+    margin: 5px;
+    text-indent:40px;
+  }
+
+div.fastinfo {
+    color: rgb(212, 210, 207);
+    font-size: large;
+    position: static;
+    text-align: justify;
+    text-indent:40px;
+  }
+
+
+div.do {
+    color: rgb(212, 210, 207);
+    font-size: large;
+    position: static;
+    text-align: justify;
+    text-indent: 40px;
+  }
